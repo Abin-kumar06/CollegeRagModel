@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+chromadb
+streamlit
+pypdf
+python-docx
+beautifulsoup4

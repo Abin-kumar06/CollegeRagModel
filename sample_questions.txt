@@ -1,0 +1,25 @@
+# Sample Questions for College Student Knowledge Assistant
+
+## Student Handbook (student_handbook.txt)
+- What is the minimum attendance required to sit for the semester exam?
+- If I miss an internal test, can I request a re-test? What is the procedure?
+- How do I apply for a bonafide certificate and how long does it take?
+
+## Academic Calendar (academic_calendar.txt)
+- When does the next semester start and when are midterms scheduled?
+
+## Course Syllabus (course_syllabus.txt)
+- What are the prerequisites for Data Structures, and which topics must I know first?
+- Give me the official unit-wise syllabus for Operating Systems.
+
+## Placement Guidelines (placement_guidelines.txt)
+- Am I eligible for placements if I have 1 backlog? What is the policy?
+- What documents are required for internship approval?
+
+## Fees and Scholarships (fees_scholarships.txt)
+- Which scholarships are available for 2nd-year students, and what is the eligibility?
+- What is the late fee rule if I miss the semester fee deadline?
+
+## Library Rules (library_rules.txt)
+- What are library fine rules for late book return?
+- How do I reserve a book online?
